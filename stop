@@ -1,0 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/sh
+cd ~/Stop-All
+echo -e "\033[8m"
+bash 1.sh
